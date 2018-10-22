@@ -1,0 +1,6 @@
+token=NTAzOTg1ODc5NjgxODU5NjA3.Dq-hBw.-wVAzstWsUgeezFMt4OVUZvMpvQ
+owner=490076609215201282
+prefix=B
+game=Type Bplay
+stayinchannel=true
+songinstatus=true
